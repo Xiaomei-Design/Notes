@@ -30,3 +30,20 @@ var twoSum = function(nums, target) {
         }
     }
 };
+
+// no advantage
+var twoSum = function(nums, target) {
+    let obj = new Map();
+    for(let i = 0; i< nums.length; i++) {
+        obj.set(target-nums[i], i);
+    }
+    for( let j = 0; j < nums.length; j++) {
+        if(obj.has(nums[j])) {
+            if(j === obj.get(nums[j])) {
+                continue;
+            }
+            return [j, obj.get(nums[j])]
+        }
+    }
+};
+
