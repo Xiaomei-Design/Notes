@@ -1,4 +1,3 @@
-```javascript
 // kata w2d4 sum of difference
 
 function sumOfDifferences(arr) {
@@ -18,5 +17,4 @@ function sumOfDifferences(arr) {
   if (arr.length === 0) return 0;
   return Math.max(...arr) - Math.min(...arr) | 0;
 }
-```
 

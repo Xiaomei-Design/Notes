@@ -1,4 +1,3 @@
-```javascript
 // Test.assertEquals(boredom({tim: 'change', jim: 'accounts',
 //   randy: 'canteen', sandy: 'change', andy: 'change', katie: 'IS',
 //   laura: 'change', saajid: 'IS', alex: 'trading', john: 'accounts',
@@ -45,5 +44,4 @@ function boredom (staff) {
 }
 
 boredom(staff)
-```
 

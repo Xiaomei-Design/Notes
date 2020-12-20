@@ -1,4 +1,3 @@
-```javascript
 // w2d2 kata: Smallest Unused Id
 
 function nextId(ids) {
@@ -33,7 +32,4 @@ function nextId (ids) {
 
 // try with hashset
 
-
-
-```
 

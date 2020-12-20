@@ -1,4 +1,3 @@
-```javascript
 // TODO: write the methods getAge, addJoke and getRandomJoke
 
 const chuck = {
@@ -57,6 +56,4 @@ chuck.displayInfo();
 //   },
 // }
 
-
-```
 

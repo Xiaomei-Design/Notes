@@ -1,4 +1,3 @@
-```javascript
 // maskify("4556364607935616") == "############5616"
 
 const str = 'oiuytrdcv2345678'
@@ -43,5 +42,4 @@ function maskify(cc) {
     };
   } return masked;
 }
-```
 

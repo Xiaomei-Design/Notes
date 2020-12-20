@@ -1,4 +1,3 @@
-```javascript
 // kata Pandemia 
 
 // start: map1 = "01000000X000X011X0X"
@@ -22,5 +21,5 @@ function infected(s) {
   if (total === 0) return 0;
   return (infected / total) * 100
 }
-```
+
 

@@ -1,4 +1,3 @@
-```javascript
 // kata w2d3 happeniess rate average
 
 const meet = {
@@ -45,5 +44,5 @@ function outed(meet, boss) {
   }
 	return 'Nice Work Champ!'
 }
-```
+
 

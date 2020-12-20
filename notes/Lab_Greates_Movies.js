@@ -1,5 +1,3 @@
-```javascript
-
 // Iteration 1: All directors? - Get the array of all directors.
 function getAllDirectors (movies) {
     const directors = movies.map(function(movie) {
@@ -94,5 +92,4 @@ function turnHoursToMinutes (movies) {
 console.log(turnHoursToMinutes(movies))
 
 // BONUS - Iteration 8: Best yearly rate average - Best yearly rate average
-```
 

@@ -1,4 +1,3 @@
-```javascript
 // JavaScript Promises
 
 const inventory = {
@@ -130,5 +129,3 @@ checkInventory(order)
 .catch((errorMessage) => {
   console.log(errorMessage);
 });
-
-```

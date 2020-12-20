@@ -1,4 +1,3 @@
-```javascript
 // find all pairs
 
 function duplicates(array) {
@@ -58,5 +57,5 @@ i++;
 console.log(i)
 }
 return pairs
-```
+
 
